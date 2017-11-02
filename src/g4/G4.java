@@ -16,6 +16,8 @@ public class G4 {
      */
     public static void main(String[] args) {
         System.out.println("Mian");
+        System.out.println("First-branch");
+        
     }
     
 }
